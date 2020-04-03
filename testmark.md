@@ -33,7 +33,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Drag and drop images (requires your Dropbox account be linked)
 
 
-You can also:
+You can {code0} also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
   - Drag and drop markdown and HTML files into Dillinger
   - Export documents as Markdown, HTML and PDF
